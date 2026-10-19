@@ -1,0 +1,5 @@
+- all todo items in the code
+- Problem specific
+    - Mutation Operator
+    - Crossover Operator
+    - Initial Solution Generator
